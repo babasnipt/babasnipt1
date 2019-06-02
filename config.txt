@@ -1,5 +1,5 @@
 owner=317380201728311296
-prefix=``SnipT``Here``1play
+prefix=1
 game= 1play
 stayinchannel=true
 songinstatus=false
