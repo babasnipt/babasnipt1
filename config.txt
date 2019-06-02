@@ -1,6 +1,6 @@
-owner=335737301172879361
-prefix=-
-game= -play
+owner=317380201728311296
+prefix=``SnipT``Here``1play
+game= 1play
 stayinchannel=true
 songinstatus=false
-token=NTgxOTI5Nzg5MTcxMTcxMzQ5.XOmahA.WQgOlga2Ha7FAaPjvQK8lE9DXjA
+token=NTg0NjY1ODg5Mjc5MDQ5NzI4.XPOPQg.6E4tL4HcF8-nPpWDDfY2j8C4FUg
