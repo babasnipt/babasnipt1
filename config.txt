@@ -1,6 +1,6 @@
 owner=584665889279049728
 prefix=2
-game=𝓟𝓢𝓣 | الشيخ اسنبت الروحاني
+game=|الشيخ اسنبت الروحاني
 stayinchannel=true
 songinstatus=false
 token=NTg0Njc0NzQ1NzcwMDQ5NTU1.XPOW-g.CyaQMoD7ssWVM-MV57tLmGwUoeI
